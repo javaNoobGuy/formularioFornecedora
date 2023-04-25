@@ -159,6 +159,7 @@ const deleteE = async(id) =>{
         headers: {
             'Content-Type' : 'application/json'
         }
+        
     }
 
 
